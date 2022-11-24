@@ -1,5 +1,6 @@
-a=6
-if a%2==0:
-   print('a is even:')
+
+a=-56
+if a>0:
+   print('a is positive:')
 else:
-   print('a is odd:')
+   print('a is negative:')
