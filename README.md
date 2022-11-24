@@ -1,6 +1,5 @@
-a=9
-b=9
-if a==b:
-   print('both are equal:')
+a=6
+if a%2==0:
+   print('a is even:')
 else:
-   print('both are not equal:')
+   print('a is odd:')
