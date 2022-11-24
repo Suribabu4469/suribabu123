@@ -1,6 +1,6 @@
-+a=56
-b=78
-if a>b:
-   print('a is big:')
+a=9
+b=9
+if a==b:
+   print('both are equal:')
 else:
-   print('b is big:')
+   print('both are not equal:')
