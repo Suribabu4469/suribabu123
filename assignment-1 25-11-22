@@ -1,0 +1,7 @@
+a=int(input())
+list=[1,2,4,6,8]
+if a in list:
+    print(a,'available')
+else:
+    print(a,'not available')
+        
