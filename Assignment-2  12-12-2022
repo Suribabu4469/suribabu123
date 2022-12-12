@@ -1,0 +1,4 @@
+l=[22,8,4,14,62,243]
+print("list:",l)
+print("minimun value:",min(l))
+print("maxmum value:",max(l))
